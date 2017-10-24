@@ -1,0 +1,17 @@
+commit d34c18269ba8850f23049b0743e2a344c76eb98f
+Author: StefanTeji10 <stefan.stojacic@gmail.com>
+Date:   Tue Oct 24 09:57:17 2017 +0200
+
+    added ignoredDoc to gitignore
+
+commit 01528d5136e778762505d63fe223522328ad44ba
+Author: StefanTeji10 <stefan.stojacic@gmail.com>
+Date:   Tue Oct 24 09:51:54 2017 +0200
+
+    added gitignore
+
+commit e95219f798119f412f42ba5f070078d7b27ae188
+Author: StefanTeji10 <stefan.stojacic@gmail.com>
+Date:   Mon Oct 23 16:23:08 2017 +0200
+
+    added readme.txt
